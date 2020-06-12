@@ -35,4 +35,4 @@ python build.py Sample_OSX_Operation_TTPs.json sample --fetch-techniques
 ```
 
 ## Demo
-![](https://s3.us-east-2.amazonaws.com/gifs.stevecoward.com/demo.gif)
+https://s3.us-east-2.amazonaws.com/gifs.stevecoward.com/demo.gif
