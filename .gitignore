@@ -1,0 +1,7 @@
+*.py[cod]
+.python-version
+__pycache__/
+env/
+venv/
+.vscode/
+.DS_Store
